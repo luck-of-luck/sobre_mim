@@ -35,9 +35,9 @@ Idealizador e desenvolvedor principal do **Ampliagro**, um ecossistema de gestã
 
 ### 🌐 Conecte-se Comigo
 
-* **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail Corporativo**: [seu-email@institucional.edu.br]
-* **Portfólio / SPA**: [ampliagro.io](https://ampliagro.io)
+* **Lattes**: [Na espera da banca o validar](Na espera da banca o validar)
+* **E-mail Corporativo**: [Lucastnunes2@gmail.com]
+* **Portfólio / SPA**: [Ainda_sera_colocado!](https://ampliagro.io_____Ainda_sera_colocado!)
 
 ---
 <p align="center">
