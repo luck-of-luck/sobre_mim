@@ -35,9 +35,8 @@ Idealizador e desenvolvedor principal do **Ampliagro**, um ecossistema de gestã
 
 ### 🌐 Conecte-se Comigo
 
-* **Lattes**: [Na espera da banca o validar](Na espera da banca o validar)
-* **E-mail Corporativo**: [Lucastnunes2@gmail.com]
-* **Portfólio / SPA**: [Ainda_sera_colocado!](https://ampliagro.io_____Ainda_sera_colocado!)
+* **Lattes**: [http://lattes.cnpq.br/4066866536009474](http://lattes.cnpq.br/4066866536009474)
+* **E-mail**: [Lucastnunes2@gmail.com](Lucastnunes2@gmail.com)
 
 ---
 <p align="center">
